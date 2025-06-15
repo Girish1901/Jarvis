@@ -55,6 +55,4 @@ python main.py
 
 Make sure you have a working microphone connected to your system and proper internet connectivity for the assistant to function correctly.
 
-## License
 
-[Add your chosen license here]
